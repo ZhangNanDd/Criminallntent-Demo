@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Criminallntent</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">详情</string>
+    <string name="crime_solved_label">已解决?</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="ok">ok</string>
+    <string name="new_crime">New Crime</string>
+    <string name="remove_crime">Remove Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s crimes</string>
+</resources>
